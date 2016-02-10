@@ -1,4 +1,4 @@
 name: modernconley
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-paginate: 10
+paginate: 3
