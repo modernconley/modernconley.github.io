@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "title"
+title: "EdX Intro to Programming with Java"
 date: 2016-02-29
 ---
 I started a new course in order to try out the EdX course offerings. I'm taking [Introduction to Programming with Java, IT.1.1x](https://courses.edx.org/courses/course-v1:UC3Mx+IT.1.1x+3T2015/info).
