@@ -3,7 +3,7 @@ layout: post
 title: "Some baby steps"
 date: 2016-03-13
 ---
-I installed [Atom for ubuntu](https://atom.io/) to facilitate easier editing of the code for [my first project](/2016/03/08/Project1). 
+I installed [Atom for ubuntu](https://atom.io/) to facilitate easier editing of the code for [my first project](/blog/2016/03/08/Project1). 
 
 I signed up for an account on [Freelancer](https://www.freelancer.com/). I can submit eight bids a month for free (i.e., without having a paid premium account). I am sticking with the free account until I spend more time on this site. I can not tell how many of the projects are legitimate, and I have found many that appear to be spam/phishing. 
 
